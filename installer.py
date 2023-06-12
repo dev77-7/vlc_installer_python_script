@@ -4,7 +4,6 @@ import requests
 import subprocess
 
 vlc_download_url = "https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe"
-EXPECTED_SHA256 = "2f2b7a0476d728528d7e45631c3f6ab4b6e4a10baa4b3c3e41e44a1635de5f5b"
 
 
 def main():
